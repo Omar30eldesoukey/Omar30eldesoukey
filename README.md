@@ -21,8 +21,8 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/omar-eldesoukey" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Tulba-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/@Omartulba" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Eldesoukey-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/omar-eldesoukey" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Tulba-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/Omartulba" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Eldesoukey-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
