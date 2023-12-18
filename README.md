@@ -22,11 +22,9 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/omar-eldesoukey-981441251" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Tulba-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Omartulba" target="_blank"><img src="https://img.shields.io/badge/-@Omar%20tulba-0077B5?style=for-the-badge&logo=Telegram&logoColor=red"/></a>
+<a href="https://t.me/Omartulba" target="_blank"><img src="https://img.shields.io/badge/-@Omartulba-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100025027777423" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Eldesoukey-0077B5?style=for-the-badge&logo=facebook&logoColor=black"/></a>
-<a href="https://twitter.com/omareldesoukey" target="_blank" style="background-color: black; display: inline-block; padding: 5px;">
-  <img src="https://img.shields.io/badge/-@omar%20eldesoukey-0077B5?style=for-the-badge&logo=x&logoColor=black" />
-</a>
+<a href="https://https://twitter.com/omareldesoukey" target="_blank"><img src="https://img.shields.io/badge/-@omareldesoukey-0077B5?style=for-the-badge&logo=x&logoColor=black"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
